@@ -1,0 +1,12 @@
+__pycache__
+env
+.coverage
+.pytest_cache
+.pre-commit_cache
+*.pyc
+.idea
+.vscode
+*.egg-info/
+pytest-coverage.xml
+
+lesson2/experiments
