@@ -10,3 +10,4 @@ env
 pytest-coverage.xml
 
 lesson2/experiments
+lesson3/experiments
