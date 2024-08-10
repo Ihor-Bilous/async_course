@@ -9,5 +9,9 @@ env
 *.egg-info/
 pytest-coverage.xml
 
+venv/
+.venv/
+.python-version
+
 lesson2/experiments
 lesson3/experiments
