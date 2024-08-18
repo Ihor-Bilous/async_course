@@ -1,0 +1,5 @@
+aiofiles
+alembic
+asyncpg
+python-dotenv
+sqlalchemy
