@@ -17,3 +17,5 @@ venv/
 lesson2/experiments
 lesson3/experiments
 lesson5/data
+lesson9/data_loader/cvelist/data/service_info.json
+lesson9/api/postgres-data
